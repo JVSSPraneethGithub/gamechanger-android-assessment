@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screen_title_all_teams">All Teams in %1\$s</string>
+    <string name="no_teams_data">Unable to fetch teams data. Please try again later.</string>
+    <string name="no_team_details_data">Unable to fetch team details data. Please try again later.</string>
+    <string name="team_details_banner_talkback">Team %1\$s banner</string>
+    <string name="team_details_badge_talkback">Team %1\$s badge</string>
+    <string name="team_details_facebook_talkback">Tap to visit %1\$s on Facebook</string>
+    <string name="team_details_instagram_talkback">Tap to visit %1\$s on Instagram</string>
+    <string name="team_details_twitter_talkback">Tap to visit %1\$s on Twitter</string>
+    <string name="team_details_youtube_talkback">Tap to visit %1\$s on YouTube</string>
+    <string name="team_details_weblink">Tap to visit %1\$s website</string>
+    <string name="team_details_name_label">Team name:</string>
+    <string name="team_details_league_label">League:</string>
+    <string name="team_details_gender_label">Gender:</string>
+    <string name="team_details_sport_label">Sport:</string>
+    <string name="team_details_stadium_label">Stadium:</string>
+    <string name="team_details_location_label">Location:</string>
+    <string name="team_details_country_label">Country:</string>
+</resources>

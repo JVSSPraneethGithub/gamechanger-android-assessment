@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screen_title">All Leagues</string>
+    <string name="no_leagues_data">Unable to fetch leagues data. Please try again later.</string>
+    <string name="league_name_label">League Name:</string>
+    <string name="league_sport_label">League Sport:</string>
+</resources>
